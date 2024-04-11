@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mateo Palomá</h1>
-<h3 align="center">A Backend Software Engineer passionate about technology and Innovations</h3>
+<h3 align="center">A Backend Software Engineer about technology and Innovations</h3>
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 - 💻 Most used tech: **Python, Django, MySQL, PostgreSQL, CSS, HTML, JS, Docker, CI/CD Pipelines, AWS**
