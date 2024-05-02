@@ -33,7 +33,7 @@
 
 <h3 align="left">🚀 About Me:</h3>
 <p>
-I'm a backend-focused software engineer proficient in Python, Django, MySQL, PostgreSQL, and front-end technologies like CSS, HTML, and JS. I've worked on various projects, utilizing Docker, CI/CD pipelines, and AWS for deployment. I'm passionate about technology and mathematics, particularly AI, which I learn about every day. I enjoy being part of initiatives that truly support society.
+I'm a backend-focused software engineer proficient in Python, Django, MySQL, PostgreSQL, and front-end technologies like CSS, HTML, and JS. I've worked on various projects, utilizing Docker, CI/CD pipelines, and AWS for deployment. I'm using technology with the goal of impact the society and how we live. Furthermore mathematics, particularly AI, which I learn about every day and everything related cloud computing, DevOps. I enjoy being part of initiatives that truly support society. 
 </p>
 
 
